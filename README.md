@@ -17,3 +17,7 @@ Fork this repository and complete the following tasks:
 
 ### Subtask4
 - Extend this readme in your repository, explaining  how you completed the work in the various subtasks. 
+
+1. created a folder application and a flask app in it containing -> run.py, views.py,__init__.py and templates(about.html and index.html) using git bash.
+2. installed installer for postgreSQL and created a table using postgres 
+3. reflected all the tasks done back on github.
